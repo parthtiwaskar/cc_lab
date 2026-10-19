@@ -1,0 +1,31 @@
+# Binaries and object files
+*.o
+*.out
+lex.yy.c
+*.tab.c
+*.tab.h
+
+# Executables
+exp1
+exp2
+exp3
+exp4
+exp5
+exp6
+exp7
+exp8
+exp9
+exp10
+exp1_intro_lex
+exp2_count_tokens
+exp3_words_starting_a
+exp4_intro_yacc
+exp5_case_conversion
+exp6_dec_to_hex
+exp7_lines_ending_com
+exp8_postfix_eval
+exp9_desk_calculator
+exp10_for_loop
+
+# macOS files
+.DS_Store
